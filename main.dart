@@ -1,5 +1,7 @@
 import 'dart:convert';
 
+//jsonEncode converts Map to String
+//jsonDecode converts String to Map
 main() {
  
   Map dataMap = {
